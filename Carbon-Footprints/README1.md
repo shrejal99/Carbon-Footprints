@@ -128,3 +128,9 @@ Here are some ways you can get more involved:
 - [Shrinkthatfootprint.com](http://shrinkthatfootprint.com/food-carbon-footprint-diet)
 - [AboutAmazon.com](https://sustainability.aboutamazon.com/carbon-footprint)
 - [Quora](https://www.quora.com/How-many-boxes-does-Amazon-ship-every-day)
+
+Contributors :
+* Shrejal singh
+* Ekta Arora
+* Aaquib ali
+* Ruthvik
